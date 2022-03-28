@@ -1,0 +1,61 @@
+body {
+  background-image: linear-gradient(to right, red , yellow);
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+label {
+  font-size: 25px;
+}
+
+input {
+  border-radius: 20px;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.foodTitle {
+  width: 300px;
+  height: 30px;
+}
+
+.quantity {
+  border-radius: 10px;
+  width: 40px;
+  height: 40px;
+  font-size: 25px;
+}
+
+button {
+  font-size: 15px;
+  font-weight: bold;
+  width: 100px;
+  height: 40px;
+  border-radius: 20px;
+
+}
+
+hr {
+  border: 1px solid black;
+  margin-top: 30px;
+  width: 80%;
+}
+
+.foodData {
+  border: 1.5px solid black;
+  border-radius: 15px;
+  margin: 20px 500px;
+  padding: 10px;
+}
+
+.foodData h2 {
+  margin-top: 0;
+}
+
+.foodData input {
+  margin-bottom: 10px;
+}
